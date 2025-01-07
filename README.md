@@ -1,18 +1,27 @@
 # Hi, I'm Pranav Kaul! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Followers&style=social)](https://github.com/peekayitachi)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/your-link)](https://www.linkedin.com/in/pranav-kaul-02558424b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://your-portfolio-url)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-kaul-02558424b/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_pranav.kaul_/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/pranavkaul7)
+[![Resume](https://img.shields.io/badge/-Resume-4CAF50?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/11eFKnQU-dRso9LfCFm3jqho7N5hHgrs4/view?usp=drive_link)
+[![Design Portfolio](https://img.shields.io/badge/-Design%20Portfolio-FF5722?style=flat-square&logo=behance&logoColor=white)](https://drive.google.com/drive/folders/1m2tMFtWAWSvOu3mMU-1G1JW8Hg37NJ27?usp=drive_link)
+
+
+---
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=fira+code&size=25&pause=1000&width=600&lines=Currently+mastering+AIML+and+Solidity" alt="Typing SVG" /></a>
+</div>
 
 ---
 
 ## 🚀 About Me
-🎓 **Aspiring Full Stack Developer** | 🌐 **Passionate about Open Source** | 📈 **Constant Learner**
+🎓 **Aspiring Machine Learning Engineer** | 🌐 **Passionate about Machine Learning (LLM and NLP)** | 📈 **Curious about almost everything**
 
-- 💻 Currently working on: [Your Project Name](https://github.com/your-project)
-- 🌱 Learning: **React, Node.js, and TypeScript**
-- 💬 Ask me about: **Web Development**, **JavaScript**, and **Git**
-- 🏆 Fun Fact: I enjoy debugging and clean code.
+- 💻 Currently working on: [DeMod](https://github.com/peekayitachi/DeMod)
+- 🌱 Learning: **Tensorflow, Streamlit, and TypeScript**
+- 💬 Ask me about: **Embedding and LLMs**, **Quantum Computing**, and **FIGMA**
+- 🏆 Fun Fact: I love playing almost all sports (⚽❤️), thriller movies and animes 🍿 and sometimes enjoy stressing over my stockmarket portfolio.
 
 ---
 
@@ -22,24 +31,25 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 
 ### Currently Learning:
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
 
 ---
 
 ## 🏆 Achievements
-- 🏅 **Certified AWS Developer** from [AWS Academy](https://aws.amazon.com/training/academy/).
-- 🎖️ **Google Cloud Ready Facilitator Program** Graduate.
-- 📜 **Coursera** courses on **Machine Learning** and **Data Science**.
-
----
-
-## 📫 Connect with Me:
-- 📧 **Email**: [youremail@example.com](mailto:pranavkaulmoza@gmail.com)
-- 👔 **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/pranav-kaul-02558424b/)
-
+- 🏅 **Winner of Genisis Hackathon 2024** 
+- 🎖️ **Winner of RedBull Basement**
+- 🗞️ **Published a Patent**
+    
 ---
 
 ## 📈 GitHub Stats
@@ -47,7 +57,3 @@
 ![peekayitachi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peekayitachi&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
-
-## 🛠️ Fun Project Links
-- [Project 1](https://github.com/yourusername/project1): Description of the project.
-- [Project 2](https://github.com/yourusername/project2):
