@@ -54,7 +54,7 @@
 ## 🏆 Achievements
 - 🏅 **Winner of Genisis Hackathon 2024** 
 - 🎖️ **Winner of RedBull Basement**
-- 🗞️ **Published a Patent**
+- 🗞️ **Published a [Patent](https://www.linkedin.com/posts/pranav-kaul-02558424b_innovation-blockchain-decentralizedsystems-activity-7258689091297247232-ND3b?utm_source=share&utm_medium=member_desktop)**
     
 ---
 
