@@ -35,6 +35,12 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-34A853?style=for-the-badge&logo=openai&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
 
 
 ### Currently Learning:
@@ -53,7 +59,13 @@
 ---
 
 ## 📈 GitHub Stats
-![peekayitachi's Stats](https://github-readme-stats.vercel.app/api?username=peekayitachi&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
-![peekayitachi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peekayitachi&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
+
+  ![peekayitachi's Stats](https://github-readme-stats.vercel.app/api?username=peekayitachi&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
+  
+  ![peekayitachi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peekayitachi&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
+  
+  ![Visitor Count](https://profile-counter.glitch.me/{peekayitachi}/count.svg)
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=peekayitachi&theme=darkhub&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
